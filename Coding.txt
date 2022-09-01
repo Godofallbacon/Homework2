@@ -1,0 +1,20 @@
+Coding 
+Hurts
+My
+Brain
+git status - show modified files in the directory
+git init - initalizing an existing directory
+git clone - retrieve a repository
+git log - show all commits in the current branch
+git add - add a file as it looks to your next commit
+git reset - unstage a file while retaining the changes
+git fetch - fetch down all the branches from the remote
+git clone - retrieve an entire repository from a URL
+PWD - print the working directory
+cd - Change the directory to something specific with a command afterwards 
+ls - shows a list of all the directories 
+touch - creates files in the directory 
+rm - Remove a file from the directory
+find - finds you a specific file in the directory
+mv - Is used to move and rename files in the directory
+
